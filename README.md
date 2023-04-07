@@ -1,4 +1,4 @@
-# feature_importance
+# Feature Importance
 Feature importance is one of the important tools in Machine learning to reduce the unwanted or garbage features from our feature set. The goal of this report is to better understand the features in our dataset and to be able to decide on which features to select based on multiple strategies. Some of the questions we would answer include:
 
 1. What is feature importance and why do we need it?
